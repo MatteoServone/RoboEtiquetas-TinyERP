@@ -1,0 +1,8 @@
+keyring
+requests
+tenacity
+pymupdf
+reportlab
+watchdog
+pywin32
+pyinstaller
